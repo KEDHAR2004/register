@@ -4,6 +4,6 @@
     "email": "kedhar1711@gmail.com"
   },
   "records": {
-    "A": ["your-valid-public-ip-here"]
+    "CNAME": "custom-domains.chatgpt.site"
   }
 }
